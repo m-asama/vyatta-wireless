@@ -1,3 +1,9 @@
+vyatta-wireless (0.3.41+helium0+focal0+rev20200425163226) unstable; urgency=low
+
+  * New branch.
+
+ -- Masakazu Asama <m-asama@ginzado.co.jp>  Fri,  7 Feb 2020 20:59:26 +0900
+
 vyatta-wireless (0.3.41+vyos1+helium5) unstable; urgency=low
 
   [ Alex Harpin ]

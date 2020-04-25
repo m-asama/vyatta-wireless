@@ -10,6 +10,8 @@ config.guess
 config.status
 config.sub
 configure
+debian/.debhelper/
+debian/changelog.*
 INSTALL
 Makefile.in
 Makefile
